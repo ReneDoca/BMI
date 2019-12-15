@@ -12,8 +12,7 @@ En la pantalla principal el usuario sera capaz de ingresas peso ,altura,edad y s
 
 ### Roadmap
 
-En un futuro proximo la aplicacion sera actualizada para poder ingresar mas de un dispotivio a la vez y asi poder ponderar mas acertadamente el consumo
-asi como tambien mejorar el calculo de consumo para ser mas preciso y abarcas mas posibilidades.
+N/A
 
 
 
